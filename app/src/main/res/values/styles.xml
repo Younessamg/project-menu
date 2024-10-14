@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define a custom text style -->
+    <style name="TextStyle">
+        <item name="android:textColor">#FF5722</item> <!-- Orange color -->
+        <item name="android:textSize">18sp</item> <!-- Text size -->
+        <item name="android:fontFamily">sans-serif</item> <!-- Font family -->
+        <item name="android:textStyle">bold</item> <!-- Bold text -->
+        <item name="android:padding">8dp</item> <!-- Padding around the text -->
+    </style>
+</resources>
